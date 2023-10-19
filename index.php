@@ -24,8 +24,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 require_once plugin_dir_path( __FILE__ ) . 'classes/CourseCatalog.php';
 require_once plugin_dir_path( __FILE__ ) . 'classes/CampusDirectory.php';
 require_once plugin_dir_path( __FILE__ ) . 'classes/ClassSchedule.php';
-require_once plugin_dir_path( __FILE__ ) . 'classes/Accordion.php';
-require_once plugin_dir_path( __FILE__ ) . 'classes/AccordionWrapper.php';
 
 // New option for using shortcode without Service blocks
 require_once plugin_dir_path( __FILE__ ) . 'classes/CampusDirectoryShortcode.php';
