@@ -50,8 +50,6 @@ function ucsc_service_blocks_register_js_build() {
 $CourseCatalog    = new CourseCatalog();
 $CampusDirectory  = new CampusDirectory();
 $ClassSchedule    = new ClassSchedule();
-$Accordion        = new Accordion();
-$AccordionWrapper = new AccordionWrapper();
 $SiteSettings     = new SiteSettings();
 
 $CampusDirectoryShortcode = new CampusDirectoryShortcode();
